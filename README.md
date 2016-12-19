@@ -1,6 +1,13 @@
 
 (Warning I'm a total ruby n00b, I'm learning as I go :)
 
+* Clone this project
+  ~~~ sh
+  git clone git@github.com:andii1701/bootstrap_selenium.git
+  cd bootstrap_selenium
+  ~~~
+  
+
 * Install firefox:
   https://www.mozilla.org/en-US/firefox/new/
 
