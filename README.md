@@ -8,7 +8,7 @@
   http://brew.sh/
 
 * Install gecko
-   
+ 
    `brew install geckodriver`
 
 * Install rbenv with brew
@@ -38,3 +38,7 @@
 * Install selenium wedriver
 
   `gem install selenium-webdriver`
+
+* Run the selenium Hello World! script
+
+  `ruby ./selenium_hello_world.rb`
