@@ -49,3 +49,7 @@
 * Run the selenium Hello World! script
 
   `ruby ./selenium_hello_world.rb`
+
+* Next steps
+  Install your test framework of choice eg: https://cucumber.io
+  
