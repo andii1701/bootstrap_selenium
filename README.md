@@ -13,10 +13,12 @@
 
 * Install brew:
   http://brew.sh/
+  Brew is a package manager for macOS
 
 * Install gecko
  
    `brew install geckodriver`
+   Geckodriver is a selenium driver for firefox
 
 * Install rbenv with brew
 
