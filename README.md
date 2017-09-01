@@ -53,5 +53,6 @@
   `ruby ./selenium_hello_world.rb`
 
 * Next steps
-  Install your test framework of choice eg: https://cucumber.io
+  If your interested in BDD consider looking at: https://cucumber.io
+  Alternatives include capybara https://github.com/teamcapybara/capybara
   
